@@ -7,3 +7,4 @@ build/
 fb_cookies.pkl
 .env
 .env.*
+.dataview/
